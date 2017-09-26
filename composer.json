@@ -1,0 +1,11 @@
+{
+    "name": "bloom/bloggun",
+    "description": "The Bloggun Framework.",
+    "keywords": ["framework", "bloggun"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
